@@ -8,7 +8,7 @@ This project showcases my profile, skills, and projects in a structured and resp
 
 ## 🚀 Live Demo
 
-🔗 https://haanirafeeque.github.io/portfolio-website/
+🔗 https://haanirafeeque.github.io/Portfolio-Website/
 
 ---
 ## 📌 Features
