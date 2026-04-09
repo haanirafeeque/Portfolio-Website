@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#head{
+
+    padding:30px;
+    text-align: center;
+    background-color: #355872;
+    font-family:sans-serif ;
+    font-size: large;
+}
+
+#n,a{
+    font-style: normal;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: #7AAACE;
+}
+.a{
+    margin: 120px;
+}
+
+#b{
+    background-color: #F4F7FB;
+    padding: 80px;
+}
+#f{
+
+    background-color: #1F3A4D;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 14px;
+
+}
+#I{
+   float: right;
+   height: 150px;
+   width: 150px;
+
+}
+li{
+    margin: 5px
+}
